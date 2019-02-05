@@ -2,3 +2,62 @@ IP Log Analysis
 Time server first accessed: **Feb  1 00:00:02**
 Time server last accessed:  **Feb 27 14:40:06**
 
+At the following times the log received interaction from IP 24.17.237.70
+
+Feb  1 00:00:02
+Feb  1 00:00:24
+Feb  1 00:00:46
+Feb  1 00:01:09
+Feb  1 00:01:36
+Feb  1 00:02:00
+Feb  1 00:02:21
+Feb  1 10:34:08
+Feb  1 10:34:21
+Feb  1 10:34:30
+Feb  1 10:34:35
+Feb  1 10:34:39
+Feb  1 10:34:43
+Feb  1 10:34:48
+Feb  1 10:34:57
+Feb  1 10:35:19
+Feb  1 10:35:23
+Feb  1 10:35:27
+Feb  1 10:35:32
+Feb  1 10:35:36
+Feb  1 10:35:41
+Feb  1 10:35:49
+Feb  1 10:35:58
+Feb  1 10:36:03
+Feb  1 10:36:25
+Feb  1 10:36:47
+Feb  1 10:37:09
+Feb  1 10:37:31
+Feb  1 10:37:53
+Feb  1 10:38:14
+Feb  1 10:38:37
+Feb 13 03:45:09
+Feb 13 03:45:23
+Feb 13 03:45:32
+Feb 13 03:45:36
+Feb 13 03:45:40
+Feb 13 03:45:45
+Feb 13 03:45:50
+Feb 13 03:45:59
+Feb 13 03:46:21
+Feb 13 03:46:26
+Feb 13 03:46:30
+Feb 13 03:46:34
+Feb 13 03:46:39
+Feb 13 03:46:43
+Feb 13 03:46:52
+Feb 13 03:47:01
+Feb 13 03:47:06
+Feb 13 03:47:28
+Feb 13 03:47:50
+Feb 13 03:48:12
+Feb 13 03:48:35
+Feb 13 03:48:57
+Feb 13 03:49:19
+Feb 13 03:49:42
+
+IP address 24.17.237.70 was found in log 55 times.

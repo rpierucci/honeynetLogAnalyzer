@@ -95,14 +95,15 @@ void analyzeLog(ifstream &fin, ofstream &fout) {
 		//posnext is where filepointer ended up after line read
         posnext = fin.tellg();
 		//increment total count of IPs in log
-        count++;   
+        count++;  
+        fin.clear(); 
     }
 	//last line so reread and place into the last access position, put the file pointer back at the beginning of the line then read it again
 	fin.clear();
     fin.seekg(pos);
     fin.getline(line, 250);
     memcpy(last, line, 15);
-
+    fin.seekg(0);
 	//count unique list items
     listCount(head);
 
